@@ -1,5 +1,8 @@
 body {
     background-color: black;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 125%;
 }
 
 h1 {
@@ -14,11 +17,11 @@ h2 {
     font-size: 200%;
 }
 
-p {
+/* p {
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 125%;
-}
+} */
 
 div {
     color: white;
