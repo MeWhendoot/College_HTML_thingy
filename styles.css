@@ -2,19 +2,19 @@ body {
     background-color: black;
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 125%;
+    font-size: 20px;
 }
 
 h1 {
     color: pink;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 300%;
+    font-size: 60px;
 }
 
 h2 {
     color: pink;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 150%;
+    font-size: 40px;
 }
 
 /* p {
@@ -26,5 +26,5 @@ h2 {
 a {
     color: lightblue;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 125%;
+    font-size: 30px;
 }
